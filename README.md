@@ -1,12 +1,14 @@
-# Portafolio Adaptable (Responsive) con Bootstrap 5
+#  Portfolio 
 
-Este proyecto creado para el bootcamp Tecnolochicas PRO, es una página web adaptable a dispositivos de distintos tamaños (este tipo de sitio web se conoce en inglés como "responsive"). 
+This project, created for the Tecnolochicas PRO bootcamp, is a website that is responsive to devices of different sizes. 
+
+Here you will find a showcase of my passion for web development and design. With a focus on creating visually stunning and functional websites, I strive to deliver memorable user experiences. From captivating animations to seamless navigation, I bring creativity and technical expertise to every project. Explore my work and discover how I can bring your digital presence to life."
 
 El propósito de esta página web es mostrar el portafolio de proyectos de un(a) desarrollador(a) y su experiencia. Incluye una descripción breve de su motivación, experiencia, proyectos, artículos publicados y formas de contacto. 
 
 También incluye imágenes alternativas en la carpeta `imagenes` en caso de que se desee personalizar la imagen principal del desarrollador, además de animación a la escritura de la página web con JavaScript.
 
-### Capturas de pantalla:
+### Screenshots
 
 Primera parte de la página web:
 
@@ -30,18 +32,18 @@ Contacto:
 
 ## Tecnologías
 
-Esta página web fue creada con:
+This page was created using:
 
 * HTML
 * CSS
 * JavaScript 
 * Bootstrap 5
 
-Además, se incluyeron **Google Fonts** para personalizar la fuente y **Bootstrap icons** para incorporar íconos como flechas y logos de redes sociales populares. 
+Additionally, **Google Fonts**  were included to customize the font, and **Bootstrap icons**  were incorporated to add icons such as arrows and logos of popular social media platforms.
 
-## Español
+## English
 
-El texto de la página web está escrito en español, al igual que las clases y atributos personalizados. Las clases relacionadas con Bootstrap se incluyeron en inglés.
+The text on the webpage is written in English, including custom classes and attributes. Bootstrap-related classes are included in English.
 
 
 
