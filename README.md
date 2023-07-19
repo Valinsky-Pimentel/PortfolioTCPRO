@@ -10,25 +10,27 @@ También incluye imágenes alternativas en la carpeta `imagenes` en caso de que 
 
 ### Screenshots
 
-Primera parte de la página web:
+Presentation:
 
 ![Primera parte de la página web](imagenes/screenshot1.png)
 
-Experiencia:
+Experience:
 
 ![Experiencia](imagenes/screenshot2.png)
 
-Proyectos:
+Projects:
 
 ![Proyectos](imagenes/screenshot3.png)
 
+![Proyectos](imagenes/screenshot4.png)
+
 Testimonios:
 
-![Testimonios](imagenes/screenshot4.png)
+![Testimonios](imagenes/screenshot5.png)
 
 Contacto:
 
-![Contacto](imagenes/screenshot5.png)
+![Contacto](imagenes/screenshot6.png)
 
 ## Tecnologías
 
